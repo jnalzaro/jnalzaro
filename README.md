@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hello world! 👋
+
+Data Analyst and Software Developer working to expand knowledge in Python!
+I'm currently learning Python for Web Development, Data Science, and Automations! 🤓🤓🤓
 
 <!--
 **jnalzaro/jnalzaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

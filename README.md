@@ -1,7 +1,6 @@
-## Hello world! 👋
-
-Data Analyst and Software Developer working to expand knowledge in Python!
-I'm currently learning Python for Web Development, Data Science, and Automations! 🤓🤓🤓
+✨ ... ✨
+val a: List[Int] = List(72, 101, 108, 108, 111, 32, 87, 111, 114, 108, 100, 33)
+println(a.map(_.toChar).mkString)
 
 <!--
 **jnalzaro/jnalzaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

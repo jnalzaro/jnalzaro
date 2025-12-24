@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Jay 👋
 
 I am a passionate **Full-stack Developer** specializing in building scalable, high-performance web applications. I bridge the gap between elegant frontend experiences and robust, type-safe backend architectures.
 

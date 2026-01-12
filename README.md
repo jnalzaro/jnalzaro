@@ -6,12 +6,15 @@ I am a passionate **Full-stack Developer** specializing in building scalable, hi
 - ⚡ Fun fact: I love animations! And been dreaming about designing animations!
 
 ---
-**Add a "Current Project" Section:**
+# Projects
+
 ### 🔭 What I’m working on
 * **[KronosUI](https://github.com/jnalzaro/kronos-ui)**:
 Developing my very own date library and date-related components for Vue/Nuxt.
 This is mainly to learn how to author libraries, code in TypeScript,
 dive into Github environment, and implement solutions with best coding practices in mind.
+
+---
 
 ### 🛠️ My Tech Stack
 

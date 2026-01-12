@@ -2,7 +2,10 @@
 
 I am a passionate **Full-stack Developer** specializing in building scalable, high-performance web applications. I bridge the gap between elegant frontend experiences and robust, type-safe backend architectures.
 
-- 🌱 I’m currently learning Nuxt 4, Python, and authoring Libraries
+- 🌱 I’m currently learning:
+  - PHP Laravel Framework
+  - Python
+  - Authoring Libraries
 - ⚡ Fun fact: I love animations! And been dreaming about designing animations!
 
 ---

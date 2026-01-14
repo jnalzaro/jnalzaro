@@ -34,6 +34,11 @@ dive into Github environment, and implement solutions with best coding practices
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Scala](https://img.shields.io/badge/scala-%23E32F27.svg?style=for-the-badge&logo=scala&logoColor=white)
 ![Play Framework](https://img.shields.io/badge/Play_Framework-003366?style=for-the-badge&logo=play&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+
+#### **Databases**
+![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
